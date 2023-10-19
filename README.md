@@ -16,7 +16,7 @@ The House initiates impeachment cases, while the Senate decides impeachment case
 
 The term Congress can also refer to a particular meeting of the legislature. A Congress covers two years; the current one, the 118th Congress, began on January 3, 2023, and will end on January 3, 2025. Since the adoption of the Twentieth Amendment to the United States Constitution, the Congress has started and ended at noon on the third day of January of every odd-numbered year. Members of the Senate are referred to as senators; members of the House of Representatives are referred to as representatives, Congressmen, or Congresswomen.
 
-Scholar and representative Lee H. Hamilton asserted that the "historic mission of Congress has been to maintain freedom" and insisted it was a "driving force in American government" and a "remarkably resilient institution".[6] Congress is the "heart and soul of our democracy", according to this view,[7] even though legislators rarely achieve the prestige or name recognition of presidents or Supreme Court justices; one wrote that "legislators remain ghosts in America's historical imagination." One analyst argues that it is not a solely reactive institution but has played an active role in shaping government policy and is extraordinarily sensitive to public pressure. Several academics described Congress:
+Scholar and representative Lee H. Hamilton asserted that the "historic mission of Congress has been to maintain freedom" and insisted it was a "driving force in American government" and a "remarkably resilient institution".[6] Congress is the "heart and soul of our democracy", according to this view, even though legislators rarely achieve the prestige or name recognition of presidents or Supreme Court justices; one wrote that "legislators remain ghosts in America's historical imagination." One analyst argues that it is not a solely reactive institution but has played an active role in shaping government policy and is extraordinarily sensitive to public pressure. Several academics described Congress:
 
 > Congress reflects us in all our strengths and all our weaknesses. It reflects our regional idiosyncrasies, our ethnic, religious, and racial diversity, our multitude of professions, and our shadings of opinion on everything from the value of war to the war over values. Congress is the government's most representative body ... Congress is essentially charged with reconciling our many points of view on the great public policy issues of the day.
 >
@@ -26,8 +26,8 @@ Congress is constantly changing and is constantly in flux. In recent times, the 
 
 The Congress of the United States serves two distinct purposes that overlap: local representation to the federal government of a congressional district by representatives and a state's at-large representation to the federal government by senators.
 
-Most incumbents seek re-election, and their historical likelihood of winning subsequent elections exceeds 90 percent.[9]
+Most incumbents seek re-election, and their historical likelihood of winning subsequent elections exceeds 90 percent.
 
-The historical records of the House of Representatives and the Senate are maintained by the Center for Legislative Archives, which is a part of the National Archives and Records Administration.[10]
+The historical records of the House of Representatives and the Senate are maintained by the Center for Legislative Archives, which is a part of the National Archives and Records Administration.
 
 Congress is directly responsible for the governing of the District of Columbia, the current seat of the federal government.
